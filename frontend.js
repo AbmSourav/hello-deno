@@ -6,7 +6,9 @@ export function App() {
 				<link rel="stylesheet" href="style.css" />
 			</head>
 			<body>
-				<h1 style="text-align: center">Hello Universe...</h1>
+				<div class="greetings">
+					<h1>Hello Universe.</h1>
+				</div>
 
 				<footer>
 					<p>
