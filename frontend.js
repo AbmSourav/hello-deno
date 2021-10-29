@@ -7,7 +7,7 @@ export function App() {
 			</head>
 			<body>
 				<div class="greetings">
-					<h1>Hello Universe.</h1>
+					<h1><span>Hello</span> Univer<span>se.</span></h1>
 				</div>
 
 				<footer>
