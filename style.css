@@ -4,6 +4,7 @@ body {
 	color: #fff;
 	display: grid;
 	margin: 0;
+	height: 100vh;
 }
 
 .greetings {
